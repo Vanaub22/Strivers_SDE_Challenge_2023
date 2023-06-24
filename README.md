@@ -5,4 +5,3 @@ This is the repository where I will be adding my solutions to problems from **St
 *Best of luck* to everyone participating in the challenge and *Huge thanks* to **Raj Vikramaditya** a.k.a **Striver** for this opportunity. Looking forward to an awesome learning experience.
 
  - [Leetcode Profile](https://leetcode.com/Anuvab/): **400+ Problems** Solved. I use this account for my DSA practice.
- - [Coding Ninjas CodeStudio Profile](https://www.codingninjas.com/codestudio/profile/8f2ef7dd-12f7-41f8-aaf8-4777da9c83a3): This one is new. I will be solving the SDE Sheet Problems in this account.
