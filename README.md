@@ -4,4 +4,4 @@ This is the repository where I will be adding my solutions to problems from **St
 
 *Best of luck* to everyone participating in the challenge and *Huge thanks* to **Raj Vikramaditya** a.k.a **Striver** for this opportunity. Looking forward to an awesome learning experience.
 
- - [Leetcode Profile](https://leetcode.com/Anuvab/): **400+ Problems** Solved. I use this account for my DSA practice.
+ - [Leetcode Profile](https://leetcode.com/Anuvab/): **450+ Problems** Solved. I use this account for my DSA practice.
